@@ -14,7 +14,7 @@ Run the main class, OAuth2DemoApplication.java using an appropriate IDE.
 
 You will be asked log in, and you can do so using your GitHub account.
 
-If you don't have one, you can sign up here.
+If you don't have one, you can sign up [here](https://github.com/).
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
